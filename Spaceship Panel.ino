@@ -35,11 +35,10 @@ delay(250);
 
 //alternating red LEDS blinking - add// to lines 25-31 and remove // from lines 34-40
 //delay(250); // delay .25s
-//digitalWrite(4,low); // turn red LED1 off
+//digitalWrite(4,LOW); // turn red LED1 off
 //digitalWrite(5,HIGH); // keep red LED2 on
 //delay(250);
 //digitalWrite(4,HIGH); // keep red LED1 on
 //digitalWrite(5,LOW); // turn red LED2 off
-//delay(250);
 }
 }
